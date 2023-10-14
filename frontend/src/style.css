@@ -1,0 +1,43 @@
+.body{
+    background: linear-gradient(90deg, rgb(103, 226, 228) 
+    0%, rgb(245, 220, 166) 100%);
+    text-align: center;
+    text-shadow: 1px 1px #ff0000;
+    padding: 2%;
+}
+
+.box{
+    width: 260px;
+    padding: 10px;
+    border: 3px solid gray;
+    border-radius: 1rem; 
+    margin: auto;
+    margin-top: 5%;
+    background-color: rgba(94, 132, 165, 0.442);
+    box-shadow: 5px 5px #7a7a7abd;
+    text-align: center;
+    text-shadow: 1px 1px #ff0000;
+}
+
+.btn{
+    background-color: #e5e5e5;
+    color: #110909;
+    padding: 0.1rem 1rem;
+    cursor: pointer;
+    box-shadow: 2px 2px #888888;
+    border: 2px solid rgba(38, 35, 35, 0.723);
+    border-radius: 0.2rem;
+    text-shadow: none;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.homePage {
+    text-align: center;
+}
+
+.label {
+    text-shadow: none;
+    font-size: 13px;
+}
